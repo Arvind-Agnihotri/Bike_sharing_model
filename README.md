@@ -6,7 +6,6 @@
 * General Info
 * Technologies Used
 * Conclusions
-* Acknowledgements
 
 
 
